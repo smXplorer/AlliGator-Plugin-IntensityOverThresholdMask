@@ -23,10 +23,9 @@ few regions of the image untouched.
 
 ![Threshold determination](/images/Threshold-determination.png)
 
-3. Select the plugin function item (<code>Analysis:FLI Dataset:FLI Dataset \
-Plugin Example:Peak Intensity Above Threshold Mask</code>) in the menu bar and 
-enter the value estimated from the previous step in the *Value* column and 
-press *Enter*.
+3. Select the plugin function item (<code>Analysis:FLI Dataset:FLI Dataset Plugin Example:Peak Intensity Above Threshold Mask</code>) 
+in the menu bar and enter the value estimated from the previous step in the 
+*Value* column and press *Enter*.
 
 ![Enter threshold](/images/Enter-threshold.png)
 
@@ -37,8 +36,7 @@ indication of what may have gone wrong.
 ![Mask image output](/images/Mask-image-output.png)
 
 5. The Mask Image is automatically converted into ROIs, which can be selected 
-in the **Source Image ROI Manager** window (<code>Windows:Source Image ROI \
-Manager</code>). 
+in the **Source Image ROI Manager** window (<code>Windows:Source Image ROI Manager</code>). 
 The figure below shows the original dataset with all the detected ROIs 
 (obtained using the <code>ROIs:Show All ROIs</code> Source Image right-click 
 menu item).
