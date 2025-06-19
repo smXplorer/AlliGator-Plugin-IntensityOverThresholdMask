@@ -41,3 +41,5 @@ in the **Source Image ROI Manager** window (<code>Windows:Source Image ROI
 Manager</code>). The figure below shows the original dataset with all the 
 detected ROIs (obtained using the <code>ROIs:Show All ROIs</code> Source Image 
 right-click menu item).
+
+![Show all rois](/images/Show-all-rois.png)
