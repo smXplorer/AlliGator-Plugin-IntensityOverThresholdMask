@@ -39,8 +39,9 @@ indication of what may have gone wrong.
 
 ![Mask image output](/images/Mask-image-output.png)
 
-6. The Mask Image is automatically converted into ROIs, which can be selected 
-in the **Source Image ROI Manager** window (<code>Windows:Source Image ROI Manager</code>). 
+6. The Mask Image is automatically converted into ROIs (this is an AlliGator-performed 
+step, not a plugin function), which can be selected in the **Source Image ROI 
+Manager** window (<code>Windows:Source Image ROI Manager</code>). 
 The figure below shows the original dataset with all the detected ROIs 
 (obtained using the <code>ROIs:Show All ROIs</code> Source Image right-click 
 menu item).
